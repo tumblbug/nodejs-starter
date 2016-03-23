@@ -1,14 +1,13 @@
 {
+  "root": true,
   "env": {
-    "mocha": true,
     "es6": true,
-    "node": true,
+    "node": true
   },
   "globals": {
-    "expect"
   },
   "extends": [
-    "airbnb/base",
+    "airbnb/base"
   ],
   "ecmaFeatures": {
     "templateStrings": true

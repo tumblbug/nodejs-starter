@@ -1,5 +1,5 @@
 'use strict';
-const api = require('../../lib/api');
+const api = require('../../src/api');
 const nock = require('nock');
 
 describe('Api', () => {
